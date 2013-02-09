@@ -52,6 +52,23 @@
     <!-- The line below must be kept intact for Sencha Command to build your application -->
     <script id="microloader" type="text/javascript" src="touch/microloader/development.js"></script>
 	<script src="feedhenry.js" type = "text/javascript" > </script>
+	<script> 
+	
+	var config = {
+	  host: "https://networkrail.appsdeveloper.o2.co.uk",
+	  appid: "mLKq145XlBk9tXYPfZPUrZPt",
+	  apikey: "8f1a72f6a57816b1dbc1244272effd9ff75909fa",
+	  mode: "dev"
+	};
+
+	$fh.init(config, function(res) {
+	  // SDK initialised, callback action here
+	  alert("SDK initialized");
+	}, function(msg, err) {
+	  // SDK initialise failed, callback action here
+	});
+	
+	</script>
 </head>
 <body>
     <div id="appLoadingIndicator">
