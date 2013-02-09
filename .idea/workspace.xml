@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac59f98-0ae4-4ee0-ac4a-90f27c2e6c22" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/default/index.html" afterPath="$PROJECT_DIR$/client/default/index.html" />
-    </list>
+    <list default="true" id="aac59f98-0ae4-4ee0-ac4a-90f27c2e6c22" name="Default" comment="" />
     <ignored path="SenchaDS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +23,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/default/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="35" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.3">
+            <state line="61" column="0" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.36">
               <folding />
             </state>
           </provider>
@@ -214,7 +212,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client/default/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="35" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.3">
+        <state line="61" column="0" selection-start="1778" selection-end="1778" vertical-scroll-proportion="0.36">
           <folding />
         </state>
       </provider>
