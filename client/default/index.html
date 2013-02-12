@@ -55,43 +55,10 @@
 	<script> 
 	
     $fh.ready(function() {
-		
+		alert("all good");
+        alert($fh.app_props.appid);
+
         console.log('Test debug');
-		
-        $fh.data({
-          act: 'save',
-          key: 'hello',
-          val: 'world'
-        });
-		
-        $fh.data({
-          act: 'save',
-          key: 'goodbye',
-          val: 'universe'
-        });
-		
-		$fh.data({
-          key: 'hello'
-        }, function (res) {
-          var val = res.val;
-        
-          console.log('got: ' + val + 'for hello');
-		  
-        }, function (msg) {
-          alert(msg);
-        });
-		$fh.data({
-          key: 'goodbye'
-        }, function (res) {
-          var val = res.val;
-        
-          console.log('got: ' + val + 'for hello');
-		  
-        }, function (msg) {
-          alert(msg);
-        });
-		
-		
 	});
 
 
