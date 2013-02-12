@@ -1,4 +1,4 @@
-SimpleApp.view.Main = Ext.define('SimpleApp.view.Main', {
+Ext.define('SimpleApp.view.Main', {
     extend: 'Ext.form.Panel',
     xtype: 'main',
     requires: ['Ext.form.FieldSet'],
