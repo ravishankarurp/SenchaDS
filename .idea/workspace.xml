@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac59f98-0ae4-4ee0-ac4a-90f27c2e6c22" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/default/index.html" afterPath="$PROJECT_DIR$/client/default/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SenchaDS.iml" afterPath="$PROJECT_DIR$/.idea/SenchaDS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SenchaDS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/default/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="31" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.4">
+            <state line="19" column="13" selection-start="578" selection-end="578" vertical-scroll-proportion="0.38">
               <folding />
             </state>
           </provider>
@@ -123,6 +125,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="http.proxy" />
+    <property name="last_opened_file_path" value="/usr/local/bin/node" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -214,7 +217,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client/default/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="31" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.4">
+        <state line="19" column="13" selection-start="578" selection-end="578" vertical-scroll-proportion="0.38">
           <folding />
         </state>
       </provider>
